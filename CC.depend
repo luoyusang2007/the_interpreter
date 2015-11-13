@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1425213547 source:c:\users\luoyusang\codeblocks\cc\big_num_engine.c
+	"defs.h"
+	"globals.h"
+	"stdio.h"
+	"structs.h"
+	"stdlib.h"
+
+1430064323 c:\users\luoyusang\codeblocks\cc\defs.h
+
+1424244119 c:\users\luoyusang\codeblocks\cc\globals.h
+
+1432653771 c:\users\luoyusang\codeblocks\cc\structs.h
+
+1430050807 source:c:\users\luoyusang\codeblocks\cc\enval_tokens.c
+	<stdlib.h>
+	<stdio.h>
+	"defs.h"
+	"structs.h"
+
+1429959074 source:c:\users\luoyusang\codeblocks\cc\exe_line.c
+	"structs.h"
+	"globals.h"
+	"defs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1425654367 source:c:\users\luoyusang\codeblocks\cc\exp_string_lib.c
+	"globals.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1432654984 source:c:\users\luoyusang\codeblocks\cc\lexical_analysis.c
+	"structs.h"
+	"globals.h"
+	"defs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1425380394 source:c:\users\luoyusang\codeblocks\cc\operation_engine.c
+	"globals.h"
+	"structs.h"
+	"defs.h"
+	<stdlib.h>
+
+1432657306 source:c:\users\luoyusang\codeblocks\cc\syntactic_analysis.c
+	"structs.h"
+	"globals.h"
+	"defs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1425315155 source:c:\users\luoyusang\codeblocks\cc\variables.c
+	"globals.h"
+	"defs.h"
+	"stdlib.h"
+	"structs.h"
+	<stdio.h>
+	<string.h>
+
+1430066914 source:c:\users\luoyusang\codeblocks\cc\file.c
+	"structs.h"
+	"globals.h"
+	"defs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1432656479 source:c:\users\luoyusang\codeblocks\cc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	<unistd.h>
+
